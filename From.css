@@ -1,0 +1,49 @@
+*
+h1 {text-align: center;}
+h2 {text-align: center;}
+p2 {text-align: center;}
+from{text-align: center;}
+
+
+
+p.one {
+     text-align: center;
+    border-style: solid;
+    outline: black solid 20px;
+    height: 100%;
+ width: 100%;/* 20px top and bottom, 5px on the sides */
+  }
+
+  #profile{
+      border-radius: 20px ;
+      padding: 20px;
+      animation: profile 1s infinite alternate;
+  }
+@keyframes profile{
+from{
+    background: skyblue;
+}
+}
+
+
+
+#follow{
+      border-radius: 15px ;
+      padding: 10px;
+      animation: follow 1s infinite alternate;
+  }
+@keyframes follow{
+from{
+    background: aquamarine;
+}}
+
+
+
+#re{
+    text-decoration: coral;
+background-image: 
+linear-gradient;
+background-repeat: no-repeat;
+background-size: 1560px 815px;
+}
+
